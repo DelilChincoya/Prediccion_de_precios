@@ -1,5 +1,7 @@
 # Predicción de Precios de Casas
 
+![Resumen gráfico](https://github.com/DelilChincoya/Prediccion_de_precios/blob/main/Imagenes/resumen_regresion.png)
+
 En este proyecto se desarrolló un modelo predictivo para estimar precios de casas con base en diversas características de las propiedades. Se utilizaron técnicas de análisis de datos, visualización y aprendizaje automático para predecir el valor de las propiedades.
 
 ## Conjunto de Datos
